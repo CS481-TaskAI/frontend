@@ -1,0 +1,87 @@
+body{
+    /* Home */
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 42px;
+
+position: relative;
+width: 1538px;
+height: 980px;
+
+background: #EB5E5D;
+}
+
+.page-container{
+    /* Exodus Landing Page */
+
+position: static;
+left: 3.19%;
+right: 3.19%;
+top: 2.35%;
+bottom: 5.82%;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0px;
+
+}
+
+.profile-pic{
+    /* Ellipse 23 */
+
+
+position: static;
+width: 68px;
+height: 68px;
+left: 3.82px;
+top: 0px;
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 28px;
+}
+
+.welcome-user{
+    /* Welcome, Mr. Cosmos */
+
+
+position: static;
+width: 197px;
+height: 27px;
+left: 99.82px;
+top: 20.5px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 28px;
+}
