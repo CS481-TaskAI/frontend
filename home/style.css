@@ -70,7 +70,28 @@ body{
     left: 34px;
     top: 24px;
 }
-    
+.create-team{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
+    position: static;
+    width: 133px;
+    height: 30px;
+    left: 538.64px;
+    top: 19px;
+
+    background: #F1F1F1;
+    border-radius: 20px;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 238px;
+}
+
 .date-container{
     position: absolute;
     width: 308px;
@@ -128,6 +149,57 @@ body{
     margin: 0px 17px;
 }
 
+.in-between{
+    position: static;
+    width: 22px;
+    height: 27px;
+    left: 686px;
+    top: 9.5px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 17px;
+}
+
+.task-category-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+    position: static;
+    width: 256px;
+    height: 46px;
+    left: 725px;
+    top: 0px;
+    
+    background: #18A0FB;
+    border-radius: 20px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 17px;  
+}
+
 .task-category-container{
     display: flex;
     flex-direction: row;
@@ -139,9 +211,8 @@ body{
     height: 582px;
     left: 34px;
     top: 301.5px;
-    
 }
-    
+
 .welcome-greetings{
     
     position: absolute;
