@@ -37,6 +37,8 @@ body{
         right: 3.19%;
         top: 2.35%;
         bottom: 5.82%;
+        width: 1440px;
+        height: 900px;
         
         background: #FFFFFF;
         border-radius: 10px;
@@ -45,17 +47,94 @@ body{
         order: 0;
         flex-grow: 0;
         margin: 10px 0px;
-    }
+}
     
 .navbar-header-container{
-    float: right;
-}
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
     
-.navbar-container a.user{
-    font-size: 25px;
-    font-weight: bold;
-}
+    position: static;
+    width: 466px;
+    height: 27px;
+    left: 909.64px;
+    top: 20.5px;
     
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 238px;
+}
+
+.welcome-user-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+    position: static;
+    width: 300.64px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 238px;
+}
+.circle-pic{
+    position: static;
+    width: 68px;
+    height: 68px;
+    left: 3.82px;
+    top: 0px;
+    
+    background: #000000;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 28px;
+}
+
+.welcome-user-text{
+    position: static;
+    width: 197px;
+    height: 27px;
+    left: 99.82px;
+    top: 20.5px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 28px;
+}
 .navbar-container{
     overflow: hidden;
     padding: 20px 10px;
