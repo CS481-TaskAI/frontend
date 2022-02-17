@@ -1,153 +1,145 @@
 body{
-    /* Home */
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-padding: 0px 42px;
-
-position: relative;
-width: 1538px;
-height: 980px;
-background: #EB5E5D;
-margin: 10px 0px
-}
-
-.body-container{
-        /* Home */
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-padding: 0px 42px;
-
-position: relative;
-width: 1538px;
-height: 980px;
-background: #EB5E5D;
-margin: 10px 0px
-}
-.content-container{
-    /* Exodus Landing Page */
-
-position: relative;
-width: 1440px;
-height: 900px;
-background: #FFFFFF;
-border-radius: 10px;
-margin: 10px 0px;
-}
-
-.navbar-header-container{
-display: inline;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-
-position: absolute;
-width: 1376px;
-height: 68px;
-left: 34px;
-top: 24px;
-
-}
-
-.navbar-container{
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 0px;
-
-position: static;
-width: 466px;
-height: 27px;
-left: 909.64px;
-top: 20.5px;
-}
-
-.date-container{
-position: absolute;
-width: 308px;
-height: 24px;
-left: 34px;
-top: 115.5px;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-display: flex;
-align-items: center;
-
-color: #000000;
-}
-
-.add-task-container{
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-
-position: absolute;
-width: 981px;
-height: 46px;
-left: 34px;
-top: 158.5px;
-
-}
-
-.welcome-greetings{
-
-position: absolute;
-width: 637px;
-height: 78px;
-left: 34px;
-top: 211.5px;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 30px;
-line-height: 78px;
-/* identical to box height, or 260% */
-
-text-transform: uppercase;
-
-color: #000000;
-}
-
-.rewards-container{
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 27px 154px;
-
-position: absolute;
-width: 263px;
-height: 95px;
-left: 1138px;
-top: 134px;
-
-background: #FBA8B1;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-border-radius: 20px;
-}
-
-.task-category-container{
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 0px;
-
-position: absolute;
-width: 1367px;
-height: 582px;
-left: 34px;
-top: 301.5px;
-
-}
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 46px 42px;
+    
+    position: static;
+    width: 1538px;
+    height: 1028px;
+    left: 0px;
+    top: 0px;
+    
+    background: #EB5E5D;
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    }
+    
+    .body-container{
+            /* Home */
+    
+    position: relative;
+    top: 23px;
+    left: 40px;
+    width: 1538px;
+    height: 1028px;
+    background: #EB5E5D;
+    margin: 10px 0px
+    }
+    .content-container{
+        /* Exodus Landing Page */
+    
+    position: relative;
+    top: 23px;
+    left: 49px;
+    right: 49px;
+    width: 1440px;
+    height: 900px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 10px 0px;
+    }
+    
+    .navbar-header-container{
+    float: right;
+    }
+    
+    .navbar-container a.user{
+    font-size: 25px;
+    font-weight: bold;
+    }
+    
+    .navbar-container{
+    overflow: hidden;
+    padding: 20px 10px;
+    
+    }
+    
+    .date-container{
+    position: absolute;
+    width: 308px;
+    height: 24px;
+    left: 34px;
+    top: 115.5px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    .add-task-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    
+    position: absolute;
+    width: 981px;
+    height: 46px;
+    left: 34px;
+    top: 158.5px;
+    
+    }
+    
+    .welcome-greetings{
+    
+    position: absolute;
+    width: 637px;
+    height: 78px;
+    left: 34px;
+    top: 211.5px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 78px;
+    /* identical to box height, or 260% */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    }
+    
+    .rewards-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 27px 154px;
+    
+    position: absolute;
+    width: 263px;
+    height: 95px;
+    left: 1138px;
+    top: 134px;
+    
+    background: #FBA8B1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    }
+    
+    .task-category-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 1367px;
+    height: 582px;
+    left: 34px;
+    top: 301.5px;
+    
+    }
