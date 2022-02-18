@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&family=Saira:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@100&display=swap');
 
 .background{
     display: flex;
@@ -47,7 +47,7 @@
     left: 153px;
     top: 22px;
 
-    font-family: Saira;
+    font-family: 'Saira', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
@@ -68,7 +68,7 @@
     right: 30%;
     top: calc(50% - 78px/2 - 140px);
 
-    font-family: Rubik;
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 46px;
@@ -156,6 +156,9 @@
 
     background: #18A0FB;
     border-radius: 0px 20px 20px 20px;
+
+    width: fit-content;
+    height: fit-content;
 }
 
 .button-txt{
@@ -165,7 +168,7 @@
     top: 29.17%;
     bottom: 29.17%;
 
-    font-family: Rubik;
+    font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
