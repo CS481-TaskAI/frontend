@@ -48,28 +48,20 @@ body{
         flex-grow: 0;
         margin: 10px 0px;
 }
-    
-.navbar-header-container{
+
+.navbar-container{
     display: flex;
     flex-direction: row;
-    justify-content: center;
     align-items: center;
     padding: 0px;
-    
-    position: static;
-    width: 466px;
-    height: 27px;
-    left: 909.64px;
-    top: 20.5px;
-    
-    
-    /* Inside auto layout */
-    
-    flex: none;
-    order: 2;
-    flex-grow: 0;
-    margin: 0px 238px;
+
+    position: absolute;
+    width: 1376px;
+    height: 68px;
+    left: 34px;
+    top: 24px;
 }
+
 
 .welcome-user-container{
     display: flex;
@@ -92,6 +84,7 @@ body{
     flex-grow: 0;
     margin: 0px 238px;
 }
+
 .circle-pic{
     position: static;
     width: 68px;
@@ -135,21 +128,9 @@ body{
     flex-grow: 0;
     margin: 0px 28px;
 }
-.navbar-container{
-    overflow: hidden;
-    padding: 20px 10px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 0px;
 
-    position: absolute;
-    width: 1376px;
-    height: 68px;
-    left: 34px;
-    top: 24px;
-}
-.create-team{
+
+.create-team-button{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -170,6 +151,56 @@ body{
     flex-grow: 0;
     margin: 0px 238px;
 }
+
+.create-team-text{
+    position: static;
+    width: 85px;
+    height: 19px;
+    left: 10px;
+    top: 5.5px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.navbar-header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+    position: static;
+    width: 466px;
+    height: 27px;
+    left: 909.64px;
+    top: 20.5px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 238px;
+}
+
 
 .date-container{
     position: absolute;
