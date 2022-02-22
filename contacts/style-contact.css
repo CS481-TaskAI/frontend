@@ -1,0 +1,2864 @@
+.exodus-landing-page16759177-exodus-landing-page16759177 {
+    width: 1440px;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.10000000149011612) ;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-content16759178 {
+    top: 140px;
+    left: 34px;
+    width: 1328px;
+    height: 620px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-table16759179 {
+    top: 68px;
+    left: 0px;
+    width: 1328px;
+    height: 552px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 4px;
+    flex-direction: column;
+  }
+  .exodus-landing-page16759177-header16759180 {
+    width: 1328px;
+    height: 40px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-textmedium13darkblueo5016759181 {
+    top: 10px;
+    left: 64px;
+    width: 232px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text {
+    top: 2px;
+    left: 0px;
+    color: rgba(0, 0, 0, 1);
+    width: 232px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text001 {
+    color: rgba(0, 0, 0, 1);
+    width: 232px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image {
+    top: 10px;
+    left: 459px;
+    width: 210px;
+    height: 20px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image01 {
+    top: 10px;
+    left: 837px;
+    width: 120px;
+    height: 20px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image02 {
+    top: 10px;
+    left: 693px;
+    width: 120px;
+    height: 20px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-textmedium13darkblueo5016759186 {
+    top: 12px;
+    left: 268px;
+    width: 732px;
+    height: 16px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text002 {
+    top: 0px;
+    left: -30.041040420532227px;
+    color: rgba(0, 0, 0, 1);
+    width: 172px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text003 {
+    color: rgba(0, 0, 0, 1);
+    width: 172px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text004 {
+    top: 0px;
+    left: 328.4486999511719px;
+    color: rgba(0, 0, 0, 1);
+    width: 51px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text005 {
+    color: rgba(0, 0, 0, 1);
+    width: 51px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text006 {
+    top: 0px;
+    left: 172.23529052734375px;
+    color: rgba(0, 0, 0, 1);
+    width: 126px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text007 {
+    color: rgba(0, 0, 0, 1);
+    width: 126px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text008 {
+    top: 0px;
+    left: 470px;
+    color: rgba(0, 0, 0, 1);
+    width: 125px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text009 {
+    color: rgba(0, 0, 0, 1);
+    width: 125px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text010 {
+    top: 12px;
+    left: 890px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text011 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text012 {
+    top: 12px;
+    left: 1041px;
+    color: rgba(0, 0, 0, 1);
+    width: 135px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text013 {
+    color: rgba(0, 0, 0, 1);
+    width: 135px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text014 {
+    top: 12px;
+    left: 1236px;
+    color: rgba(0, 0, 0, 1);
+    width: 60px;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text015 {
+    color: rgba(0, 0, 0, 1);
+    width: 60px;
+    height: auto;
+    opacity: 0.50;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-frame0116759194 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-svg {
+    width: 1328;
+    height: 64;
+    position: absolute;
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759196 {
+    top: 21px;
+    left: 64px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text016 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text017 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759198 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text018 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text019 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759200 {
+    top: 22px;
+    left: 667px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text020 {
+    top: 0px;
+    left: -70px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text021 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759202 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text022 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text023 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text024 {
+    top: 21.225830078125px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text025 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image03 {
+    top: 19px;
+    left: 47px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image04 {
+    top: 20px;
+    left: 912px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text026 {
+    top: 22px;
+    left: 1041px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text027 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image05 {
+    top: 18px;
+    left: 1119px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame0216759209 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image06 {
+    top: 0px;
+    left: 0px;
+    width: 1328px;
+    height: 64px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: var(--dl-color-default-whitef5968);
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759211 {
+    top: 20px;
+    left: 100px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text028 {
+    top: 0px;
+    left: -36px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text029 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text030 {
+    top: 21.010009765625px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text031 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759214 {
+    top: 21px;
+    left: 597px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text032 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text033 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759216 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text034 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text035 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759218 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text036 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text037 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image07 {
+    top: 19px;
+    left: 47px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text038 {
+    top: 22px;
+    left: 1041px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text039 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image08 {
+    top: 18px;
+    left: 1119px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame0316759223 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image09 {
+    top: 0px;
+    left: 0px;
+    width: 1328px;
+    height: 64px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: var(--dl-color-default-whitef5968);
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759225 {
+    top: 21px;
+    left: 64px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text040 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text041 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text042 {
+    top: 20.7939453125px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text043 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759228 {
+    top: 22px;
+    left: 597px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text044 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text045 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759230 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text046 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text047 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759232 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text048 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text049 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image10 {
+    top: 18px;
+    left: 47px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text050 {
+    top: 22px;
+    left: 1041px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text051 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image11 {
+    top: 18px;
+    left: 1119px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame0416759237 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image12 {
+    top: 0px;
+    left: 0px;
+    width: 1328px;
+    height: 64px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: var(--dl-color-default-whitef5968);
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759239 {
+    top: 21px;
+    left: 64px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text052 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text053 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text054 {
+    top: 20.578125px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text055 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759242 {
+    top: 22px;
+    left: 597px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text056 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text057 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759244 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text058 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text059 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759246 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text060 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text061 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image13 {
+    top: 17px;
+    left: 48px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text062 {
+    top: 22px;
+    left: 1041px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text063 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image14 {
+    top: 18px;
+    left: 1119px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame0516759251 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-svg1 {
+    width: 1328;
+    height: 64;
+    position: absolute;
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759253 {
+    top: 21px;
+    left: 64px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text064 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text065 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text066 {
+    top: 20.362060546875px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text067 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text068 {
+    top: 20px;
+    left: 1205px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text069 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759257 {
+    top: 22px;
+    left: 597px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text070 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text071 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759259 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text072 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text073 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759261 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text074 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text075 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image15 {
+    top: 18px;
+    left: 47px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image16 {
+    top: 18px;
+    left: 1276px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame0716759265 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image17 {
+    top: 0px;
+    left: 0px;
+    width: 1328px;
+    height: 64px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: var(--dl-color-default-whitef5968);
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759267 {
+    top: 21px;
+    left: 64px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text076 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text077 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text078 {
+    top: 19.93017578125px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text079 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759270 {
+    top: 22px;
+    left: 597px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text080 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text081 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759272 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text082 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text083 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759274 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text084 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text085 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image18 {
+    top: 18px;
+    left: 47px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text086 {
+    top: 20px;
+    left: 1207px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text087 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image19 {
+    top: 18px;
+    left: 1276px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame0816759279 {
+    width: 1328px;
+    height: 64px;
+    margin: 0 0 1px 0;
+    display: flex;
+    position: relative;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-textmedium15tableblack16759281 {
+    top: 21px;
+    left: 64px;
+    width: 226px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text088 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text089 {
+    color: rgba(112, 118, 131, 1);
+    width: 226px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text090 {
+    top: 19.71435546875px;
+    left: 738px;
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text091 {
+    color: rgba(112, 118, 131, 1);
+    width: 156px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text092 {
+    top: 20px;
+    left: 1207px;
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text093 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759285 {
+    top: 22px;
+    left: 597px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text094 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text095 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759287 {
+    top: 22px;
+    left: 239px;
+    width: 210px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text096 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text097 {
+    color: rgba(112, 118, 131, 1);
+    width: 210px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-textregular13tablegray16759289 {
+    top: 22px;
+    left: 441px;
+    width: 120px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text098 {
+    top: 0px;
+    left: 0px;
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text099 {
+    color: rgba(112, 118, 131, 1);
+    width: 120px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image20 {
+    top: 20px;
+    left: 46px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image21 {
+    top: 18px;
+    left: 1276px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-pagination16759293 {
+    width: 1328px;
+    height: 64px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image22 {
+    top: 0px;
+    left: 0px;
+    width: 1328px;
+    height: 64px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: var(--dl-color-default-whitef5968);
+  }
+  .exodus-landing-page16759177-tablebottom16759295 {
+    top: 20px;
+    left: 963px;
+    width: 350px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-rowsperpage16759296 {
+    top: 3px;
+    left: 0px;
+    width: 139px;
+    height: 18px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text100 {
+    top: 0px;
+    left: 0px;
+    color: rgba(159, 162, 180, 1);
+    width: 106px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text101 {
+    color: rgba(159, 162, 180, 1);
+    width: 106px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text102 {
+    top: 0px;
+    left: 114px;
+    color: rgba(74, 79, 108, 1);
+    width: 10px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: right;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text103 {
+    color: rgba(74, 79, 108, 1);
+    width: 10px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: right;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image23 {
+    top: 3px;
+    left: 127px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-pagination16759301 {
+    top: 0px;
+    left: 166px;
+    width: 184px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-text104 {
+    top: 3px;
+    left: 0px;
+    color: rgba(159, 162, 180, 1);
+    width: 100px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: right;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text105 {
+    color: rgba(159, 162, 180, 1);
+    width: 100px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: right;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image24 {
+    top: 0px;
+    left: 124px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image25 {
+    top: 0px;
+    left: 160px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-addsearch17089557 {
+    top: 0px;
+    left: 0px;
+    width: 1069px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .exodus-landing-page16759177-frame4016759308 {
+    width: 150px;
+    height: 46px;
+    margin: 0 37px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(24, 159, 250, 1);
+  }
+  .exodus-landing-page16759177-text106 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text107 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-group3216759310 {
+    width: 603px;
+    height: 46px;
+    margin: 0 37px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 20px;
+  }
+  .exodus-landing-page16759177-group3216759311 {
+    top: 0px;
+    left: 0px;
+    width: 603px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image26 {
+    top: 0px;
+    left: 0px;
+    width: 603px;
+    height: 46px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-image27 {
+    top: 13.078431129455566px;
+    left: 14.5px;
+    width: 24px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-search16759315 {
+    width: 241px;
+    height: 46px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: rgba(241, 241, 241, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+  }
+  .exodus-landing-page16759177-frame61517089556 {
+    top: 9px;
+    left: 29px;
+    width: 199px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .exodus-landing-page16759177-text108 {
+    color: var(--dl-color-greys-gray8065ab0);
+    height: auto;
+    margin: 0 91px 0 0;
+    align-self: auto;
+    text-align: left;
+    line-height: 28px;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text109 {
+    color: rgba(58, 58, 68, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image28 {
+    width: 19px;
+    height: 14px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame61616759348 {
+    top: 24px;
+    left: 34px;
+    width: 1376px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame61616759349 {
+    width: 300.6395568847656px;
+    margin: 0 238px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .exodus-landing-page16759177-svg2 {
+    width: 68;
+    height: 68;
+    margin: 0 28px 0 0;
+  }
+  .exodus-landing-page16759177-text110 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text111 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-frame61717304838 {
+    width: 133px;
+    height: 30px;
+    margin: 0 238px 0 0;
+    display: flex;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: space-between;
+    background-color: rgba(241, 241, 241, 1);
+  }
+  .exodus-landing-page16759177-text112 {
+    color: rgba(0, 0, 0, 1);
+    width: 85px;
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Nunito;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text113 {
+    color: rgba(0, 0, 0, 1);
+    width: 85px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-image29 {
+    width: 19px;
+    height: 16px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame61516759350 {
+    height: 27px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .exodus-landing-page16759177-text114 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text115 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text116 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text117 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text118 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text119 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text120 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text121 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text122 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text123 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text-entry16759339 {
+    top: 197px;
+    left: 400px;
+    width: 640px;
+    height: 505px;
+    display: flex;
+    padding: 40px 20px 20px 20px;
+    position: absolute;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-frame4716759340 {
+    width: 494px;
+    margin: 0 0 20px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    justify-content: space-between;
+  }
+  .exodus-landing-page16759177-text124 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text125 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-frame4716759342 {
+    width: 128px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    justify-content: flex-end;
+  }
+  .exodus-landing-page16759177-image30 {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .exodus-landing-page16759177-frame61517314862 {
+    display: flex;
+    padding: 20px 0 0 0;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .exodus-landing-page16759177-rectangle4116759381 {
+    width: 488px;
+    height: 46px;
+    margin: 0 0 20px 0;
+    display: flex;
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: rgba(241, 241, 241, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-text126 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text127 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-rectangle4216759383 {
+    width: 488px;
+    height: 46px;
+    margin: 0 0 20px 0;
+    display: flex;
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: rgba(241, 241, 241, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-text128 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text129 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-rectangle4316759385 {
+    width: 488px;
+    height: 46px;
+    margin: 0 0 20px 0;
+    display: flex;
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: rgba(241, 241, 241, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-text130 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text131 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-rectangle4416759387 {
+    width: 488px;
+    height: 46px;
+    margin: 0 0 20px 0;
+    display: flex;
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: rgba(241, 241, 241, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .exodus-landing-page16759177-text132 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text133 {
+    color: rgba(133, 132, 132, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-frame61516829554 {
+    height: 63px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .exodus-landing-page16759177-frame4016759391 {
+    width: 150px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(24, 159, 250, 1);
+  }
+  .exodus-landing-page16759177-text134 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .exodus-landing-page16759177-text135 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
