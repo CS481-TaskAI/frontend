@@ -1,0 +1,877 @@
+.connect-apps-exodus-landing-page16596437 {
+    width: 1440px;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.10000000149011612) ;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .connect-apps-frame61616758941 {
+    top: 271px;
+    left: 374px;
+    width: 734px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-frame62416596448 {
+    height: 357px;
+    margin: 0 235px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .connect-apps-text {
+    color: rgba(0, 0, 0, 1);
+    width: 277px;
+    height: auto;
+    margin: 0 0 30px 0;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text01 {
+    color: rgba(0, 0, 0, 1);
+    width: 277px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame61616596452 {
+    margin: 0 0 30px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-gmail16596453 {
+    width: 48px;
+    height: 48px;
+    margin: 0 32px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .connect-apps-image {
+    top: 6px;
+    left: 0px;
+    width: 48px;
+    height: 36px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame61516759401 {
+    width: 140px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(24, 159, 250, 1);
+  }
+  .connect-apps-text02 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text03 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame62316596458 {
+    margin: 0 0 30px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-zoom16596459 {
+    width: 48px;
+    height: 48px;
+    margin: 0 32px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .connect-apps-zoom-i165964596385541 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-svg {
+    width: 48;
+    height: 48;
+    position: absolute;
+  }
+  .connect-apps-clip14i165964596385543 {
+    top: 15.652169227600098px;
+    left: 8.34782600402832px;
+    width: 31px;
+    height: 16.69565773010254px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-svg1 {
+    width: 31;
+    height: 17;
+    position: absolute;
+  }
+  .connect-apps-frame61516759402 {
+    width: 140px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(24, 159, 250, 1);
+  }
+  .connect-apps-text04 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text05 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame61616596461 {
+    margin: 0 0 30px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-google-drive16596462 {
+    width: 48px;
+    height: 48px;
+    margin: 0 32px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .connect-apps-image01 {
+    top: 3px;
+    left: 0px;
+    width: 48px;
+    height: 43px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame61516759404 {
+    width: 140px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(24, 159, 250, 1);
+  }
+  .connect-apps-text06 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text07 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame62416809494 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image02 {
+    width: 44px;
+    height: 43px;
+    margin: 0 32px 0 0;
+    position: relative;
+    object-fit: cover;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+  }
+  .connect-apps-frame61516809496 {
+    width: 140px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(24, 159, 250, 1);
+  }
+  .connect-apps-text08 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text09 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-connectedapps16758867 {
+    height: 344px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .connect-apps-text10 {
+    color: rgba(0, 0, 0, 1);
+    width: 181px;
+    height: auto;
+    margin: 0 0 30px 0;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text11 {
+    color: rgba(0, 0, 0, 1);
+    width: 181px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame61616758868 {
+    width: 222px;
+    margin: 0 0 30px 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+  }
+  .connect-apps-google-calendar16758869 {
+    width: 48px;
+    height: 48px;
+    margin: 0 32px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .connect-apps-image03 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame61516759408 {
+    width: 194px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(238, 42, 74, 1);
+  }
+  .connect-apps-text12 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text13 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame61616758872 {
+    width: 222px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+  }
+  .connect-apps-figma16758873 {
+    width: 48px;
+    height: 48px;
+    margin: 0 32px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .connect-apps-figma-i167588736384671 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-color-i167588736384672 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-taobao-i167588736384673 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-back-i167588736384674 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image04 {
+    top: 0px;
+    left: 0px;
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-group-i167588736384677 {
+    top: 9.600000381469727px;
+    left: 14.399999618530273px;
+    width: 19px;
+    height: 28.799999237060547px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-frame5i167588736384678 {
+    top: 19.200000762939453px;
+    left: 0px;
+    width: 10px;
+    height: 9.600000381469727px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image05 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame4i167588736384681 {
+    top: 9.600000381469727px;
+    left: 0px;
+    width: 10px;
+    height: 9.600000381469727px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image06 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame3i167588736384684 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 9.600000381469727px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image07 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame2i167588736384687 {
+    top: 0px;
+    left: 9.600000381469727px;
+    width: 10px;
+    height: 9.600000381469727px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image08 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame1i167588736384690 {
+    top: 9.600000381469727px;
+    left: 9.600000381469727px;
+    width: 10px;
+    height: 9.600000381469727px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .connect-apps-image09 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame61516759410 {
+    width: 142px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: rgba(238, 42, 74, 1);
+  }
+  .connect-apps-text14 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text15 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame61616667249 {
+    top: 24px;
+    left: 34px;
+    width: 1376px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+  }
+  .connect-apps-frame61616667343 {
+    width: 300.6395568847656px;
+    margin: 0 238px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .connect-apps-svg2 {
+    width: 68;
+    height: 68;
+    margin: 0 28px 0 0;
+  }
+  .connect-apps-text16 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text17 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-frame61717304830 {
+    width: 133px;
+    height: 30px;
+    margin: 0 238px 0 0;
+    display: flex;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 20px;
+    justify-content: space-between;
+    background-color: rgba(241, 241, 241, 1);
+  }
+  .connect-apps-text18 {
+    color: rgba(0, 0, 0, 1);
+    width: 85px;
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Nunito;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text19 {
+    color: rgba(0, 0, 0, 1);
+    width: 85px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-image10 {
+    width: 19px;
+    height: 16px;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .connect-apps-frame61516667253 {
+    height: 27px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .connect-apps-text20 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text21 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text22 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text23 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text24 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text25 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text26 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    margin: 0 10px 0 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text27 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text28 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Work Sans;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .connect-apps-text29 {
+    color: rgba(112, 118, 131, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
